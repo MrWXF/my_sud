@@ -21,6 +21,6 @@ public class IOrdersServiceImpl implements IOrdersService {
     }
 
     public void test(){
-
+        int a = 0;
     }
 }
