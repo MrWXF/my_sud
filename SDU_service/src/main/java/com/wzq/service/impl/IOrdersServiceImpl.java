@@ -19,4 +19,8 @@ public class IOrdersServiceImpl implements IOrdersService {
 
         return ordersDaoAll;
     }
+
+    public void test(){
+
+    }
 }

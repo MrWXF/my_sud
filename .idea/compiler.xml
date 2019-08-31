@@ -11,6 +11,7 @@
         <module name="SDU_service" />
         <module name="SDU_utils" />
         <module name="SDU_web" />
+        <module name="SUD_DAO" />
       </profile>
     </annotationProcessing>
   </component>
