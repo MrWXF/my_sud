@@ -30,7 +30,7 @@
         <mybatis.version>3.4.2</mybatis.version>
         <oracle>11.2.0.1.0</oracle>
 
-        <spring.security.version>5.0.1.RELEASE</spring.security.version>
+        <spring.security.version>5.2.10.RELEASE</spring.security.version>
     </properties>
 
 
